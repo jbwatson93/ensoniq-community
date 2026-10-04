@@ -1,0 +1,420 @@
+carless-whisper/CarlessWhisper.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: CarlessWhisper.img        |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    |  ERGO DRUMS  |     866 |  ERGO DRUMS .efe |       443904 |
+   02 | Instr    | SUPABAS-2 DX |     334 | SUPABAS-2 DX.efe |       171520 |
+   03 | Instr    | JJ LA        |     121 | JJ LA       .efe |        62464 |
+   04 | EPS-Bnk  | SOUNDBANK  1 |       3 | SOUNDBANK  1.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1324 Blocks    |  Used:           677888 Bytes   |
+ Free:                      261 Blocks    |  Free:           133632 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-BAD Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-BAD Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | BAD     INST |     280 | BAD     INST.efe |       143872 |
+   02 | Instr    | BAD DRUMS    |     247 | BAD DRUMS   .efe |       126976 |
+   03 | Instr    | SQ 80     PP |      33 | SQ 80     PP.efe |        17408 |
+   04 | Instr    | SQ 8O SHISHK |     154 | SQ 8O SHISHK.efe |        79360 |
+   05 | Instr    | SQ 8O AHEM   |     145 | SQ 8O AHEM  .efe |        74752 |
+   06 | E16-Sng  |  ** BAD  **  |     313 |  ## BAD  ## .efe |       160768 |
+   09 | Instr    | ORGAN   INST |      24 | ORGAN   INST.efe |        12800 |
+   10 | Instr    | JUNO         |       7 | JUNO        .efe |         4096 |
+   11 | Instr    | PLOPP        |       6 | PLOPP       .efe |         3584 |
+   12 | Instr    | PICKSOLO  PP |      31 | PICKSOLO  PP.efe |        16384 |
+   13 | Instr    | DOLBY        |      64 | DOLBY       .efe |        33280 |
+   14 | E16-Bnk  | BAD          |       3 | BAD         .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1307 Blocks    |  Used:           669184 Bytes   |
+ Free:                      278 Blocks    |  Free:           142336 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-DH1 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-DH1 Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | TEXTURED PAD |     569 | TEXTURED PAD.efe |       291840 |
+   02 | Instr    | METAL VOICES |     373 | METAL VOICES.efe |       191488 |
+   03 | Instr    | CLAVIPIANO   |     187 | CLAVIPIANO  .efe |        96256 |
+   04 | Instr    | DIGABLA      |     114 | DIGABLA     .efe |        58880 |
+   05 | EPS-Sng  |  ** DH 1 **  |      15 |  ## DH 1 ## .efe |         8192 |
+   06 | EPS-Bnk  |   *DH1 DEMO* |       3 |   #DH1 DEMO#.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1261 Blocks    |  Used:           645632 Bytes   |
+ Free:                      324 Blocks    |  Free:           165888 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-DH2 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-DH2 Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | SYNORCHESTRA |     414 | SYNORCHESTRA.efe |       212480 |
+   02 | Instr    | SNOW VOICES  |     364 | SNOW VOICES .efe |       186880 |
+   03 | Instr    | PIPE BELL    |     227 | PIPE BELL   .efe |       116736 |
+   04 | Instr    | WOODY HIT    |      52 | WOODY HIT   .efe |        27136 |
+   05 | EPS-Bnk  | DH 2 DEMO    |       3 | DH 2 DEMO   .efe |         2048 |
+   06 | EPS-Sng  |  ** DH 2 **  |      23 |  ## DH 2 ## .efe |        12288 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1083 Blocks    |  Used:           554496 Bytes   |
+ Free:                      502 Blocks    |  Free:           257024 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-DH3 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-DH3 Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | NU WORLD VOX |     177 | NU WORLD VOX.efe |        91136 |
+   02 | Instr    | KAGONG REZ   |     494 | KAGONG REZ  .efe |       253440 |
+   03 | Instr    | NUKED BANG   |      79 | NUKED BANG  .efe |        40960 |
+   04 | EPS-Sng  |  ** DH3  **  |      24 |  ## DH3  ## .efe |        12800 |
+   05 | EPS-Bnk  | DH 3 BANK    |       3 | DH 3 BANK   .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                      777 Blocks    |  Used:           397824 Bytes   |
+ Free:                      808 Blocks    |  Free:           413696 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-Egyptoid.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-Egyptoid.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | DYNO BASS    |     175 | DYNO BASS   .efe |        90112 |
+   02 | Instr    | ROCKINGUITAR |     483 | ROCKINGUITAR.efe |       247808 |
+   03 | Instr    | VEGAS HIT    |     549 | VEGAS HIT   .efe |       281600 |
+   04 | Instr    | JAM DRUMS    |     194 | JAM DRUMS   .efe |        99840 |
+   05 | EPS-Sng  |  EGYPTOID    |      36 |  EGYPTOID   .efe |        18944 |
+   06 | EPS-Bnk  | HEAVEYMETAL  |       3 | HEAVEYMETAL .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1440 Blocks    |  Used:           737280 Bytes   |
+ Free:                      145 Blocks    |  Free:            74240 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-GG1 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-GG1 Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | MEGA BASS    |     276 | MEGA BASS   .efe |       141824 |
+   02 | Instr    | BIG STACK    |     505 | BIG STACK   .efe |       259072 |
+   03 | Instr    | SPIKE BIKE   |     451 | SPIKE BIKE  .efe |       231424 |
+   04 | EPS-Sng  |  CG 1 SONG   |      14 |  CG 1 SONG  .efe |         7680 |
+   05 | EPS-Bnk  | CG 1 BANK    |       3 | CG 1 BANK   .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1249 Blocks    |  Used:           639488 Bytes   |
+ Free:                      336 Blocks    |  Free:           172032 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-GG3 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-GG3 Demo.img          |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | STRING PAD   |     740 | STRING PAD  .efe |       379392 |
+   02 | Instr    | SLAM BASS    |     220 | SLAM BASS   .efe |       113152 |
+   03 | Instr    | SODACAN PERC |     213 | SODACAN PERC.efe |       109568 |
+   04 | Instr    | BRICKS       |      51 | BRICKS      .efe |        26624 |
+   05 | EPS-Bnk  | *CG 3BANK*   |       3 | #CG 3BANK#  .efe |         2048 |
+   07 | EPS-Sng  | CG3    ****  |      20 | CG3    #### .efe |        10752 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1247 Blocks    |  Used:           638464 Bytes   |
+ Free:                      338 Blocks    |  Free:           173056 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-George T Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-George T Demo.img     |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | FL PIPE ORGN |     498 | FL PIPE ORGN.efe |       255488 |
+   02 | Instr    | PIPE OGN BRS |     499 | PIPE OGN BRS.efe |       256000 |
+   03 | Instr    | PIPE OGN POS |     390 | PIPE OGN POS.efe |       200192 |
+   04 | EPS-Sng  | *GEORGE T *  |      16 | #GEORGE T # .efe |         8704 |
+   05 | EPS-Bnk  | PIPE ORGAN D |       3 | PIPE ORGAN D.efe |         2048 |
+   06 | EPS-Bnk  | PRESETS DEMO |       3 | PRESETS DEMO.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1409 Blocks    |  Used:           721408 Bytes   |
+ Free:                      176 Blocks    |  Free:            90112 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-M Demo D1.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-M Demo D1.img         |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | PERCUSSION   |     386 | PERCUSSION  .efe |       198144 |
+   02 | Instr    | INDIAN DRUMS |     517 | INDIAN DRUMS.efe |       265216 |
+   03 | Instr    | OKE HIT      |     155 | OKE HIT     .efe |        79872 |
+   04 | EPS-Sng  | EPS-M DEMO   |     107 | EPS-M DEMO  .efe |        55296 |
+   05 | EPS-Bnk  | DEMO BANK  1 |       3 | DEMO BANK  1.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1168 Blocks    |  Used:           598016 Bytes   |
+ Free:                      417 Blocks    |  Free:           213504 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-M Demo D2.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-M Demo D2.img         |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | MINIDRUMS 2+ |     751 | MINIDRUMS 2+.efe |       385024 |
+   02 | Instr    | DIG BASS 1   |     345 | DIG BASS 1  .efe |       177152 |
+   03 | Instr    |  CRUNCH GTR  |     397 |  CRUNCH GTR .efe |       203776 |
+   04 | EPS-Bnk  | DEMO BANK  2 |       3 | DEMO BANK  2.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1496 Blocks    |  Used:           765952 Bytes   |
+ Free:                       89 Blocks    |  Free:            45568 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-Medieval Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-Medieval Demo.img     |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    |     CHOIR    |     572 |     CHOIR   .efe |       293376 |
+   02 | Instr    | COZ TRUMPET  |     541 | COZ TRUMPET .efe |       277504 |
+   03 | Instr    | CONCERT BAND |     363 | CONCERT BAND.efe |       186368 |
+   04 | Instr    | HARPSYCHORD  |      77 | HARPSYCHORD .efe |        39936 |
+   05 | EPS-Sng  | MY CONCERT   |      13 | MY CONCERT  .efe |         7168 |
+   06 | EPS-Bnk  | ROUND      1 |       3 | ROUND      1.efe |         2048 |
+   07 | E16-Sng  |  ** SONG **  |      16 |  ## SONG ## .efe |         8704 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1585 Blocks    |  Used:           811520 Bytes   |
+ Free:                        0 Blocks    |  Free:                0 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-Multi 3 Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-Multi 3 Demo.img      |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | EPS-Bnk  | MULTI 3 DEMO |       3 | MULTI 3 DEMO.efe |         2048 |
+   02 | Instr    | TUBE BASS    |     308 | TUBE BASS   .efe |       158208 |
+   03 | Instr    | SYNTHDRUMZ   |     412 | SYNTHDRUMZ  .efe |       211456 |
+   04 | Instr    | MAXELED      |     132 | MAXELED     .efe |        68096 |
+   05 | Instr    | ZE FLUTES    |     168 | ZE FLUTES   .efe |        86528 |
+   06 | EPS-Sng  | MULTI 3 SNGS |      33 | MULTI 3 SNGS.efe |        17408 |
+   07 | EPS-Sng  | 1** SONG **  |      49 | 1## SONG ## .efe |        25600 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1105 Blocks    |  Used:           565760 Bytes   |
+ Free:                      480 Blocks    |  Free:           245760 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-Muse Chamber Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: MUSE001                      | FILE: EPS-Muse Chamber Demo.img |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | E16-Bnk  | CHAMBER MUSE |       7 | CHAMBER MUSE.efe |         4096 |
+   02 | Instr    | PIANO 241    |     241 | PIANO 241   .efe |       123904 |
+   03 | Instr    | FLUTE 1      |     308 | FLUTE 1     .efe |       158208 |
+   04 | Instr    | JAZZ CLRINET |     326 | JAZZ CLRINET.efe |       167424 |
+   05 | Instr    | MINI-VIOLIN  |     401 | MINI-VIOLIN .efe |       205824 |
+   06 | E16-Sng  | CLASSICAL    |      33 | CLASSICAL   .efe |        17408 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1316 Blocks    |  Used:           673792 Bytes   |
+ Free:                      269 Blocks    |  Free:           137728 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-My Oh My Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-My Oh My Demo.img     |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | WILD DRUMS   |     354 | WILD DRUMS  .efe |       181760 |
+   02 | Instr    | BROVO BASS   |     124 | BROVO BASS  .efe |        64000 |
+   03 | Instr    | VEGASBRASS 1 |     189 | VEGASBRASS 1.efe |        97280 |
+   04 | Instr    | VEGASBRASS 2 |     176 | VEGASBRASS 2.efe |        90624 |
+   05 | Instr    | VOICEBELL    |     188 | VOICEBELL   .efe |        96768 |
+   06 | Instr    | ELEC GTR     |     317 | ELEC GTR    .efe |       162816 |
+   07 | Instr    | SYNTHPIANO   |       7 | SYNTHPIANO  .efe |         4096 |
+   08 | Instr    | SYNOLIN      |      12 | SYNOLIN     .efe |         6656 |
+   09 | EPS-Sng  |  MY OH MY    |      23 |  MY OH MY   .efe |        12288 |
+   10 | EPS-Bnk  | MY O MY FILE |       3 | MY O MY FILE.efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1393 Blocks    |  Used:           713216 Bytes   |
+ Free:                      192 Blocks    |  Free:            98304 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-Spiderlegs Demo.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-Spiderlegs Demo.img   |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | SPIDERLEGS   |     209 | SPIDERLEGS  .efe |       107520 |
+   02 | Instr    | INDUSTRY VOX |     136 | INDUSTRY VOX.efe |        70144 |
+   03 | Instr    | SNAPS        |     101 | SNAPS       .efe |        52224 |
+   04 | Instr    | SPECTRE      |     145 | SPECTRE     .efe |        74752 |
+   05 | Instr    | SM COMBO HIT |     253 | SM COMBO HIT.efe |       130048 |
+   06 | Instr    | SS BASS      |      34 | SS BASS     .efe |        17920 |
+   07 | Instr    | SM PWR CHORD |     292 | SM PWR CHORD.efe |       150016 |
+   08 | Instr    | SM DROOMED   |     371 | SM DROOMED  .efe |       190464 |
+   09 | EPS-Sng  | JG SONG      |      21 | JG SONG     .efe |        11264 |
+   10 | EPS-Bnk  | JG DEMO      |       3 | JG DEMO     .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1565 Blocks    |  Used:           801280 Bytes   |
+ Free:                       20 Blocks    |  Free:            10240 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+extra-demos/EPS-WaveLength.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: EPS-WaveLength.img        |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    |  THE WAVE    |     619 |  THE WAVE   .efe |       317440 |
+   02 | Instr    | SYNTHOS      |     640 | SYNTHOS     .efe |       328192 |
+   03 | Instr    | BREATHY VOX  |     246 | BREATHY VOX .efe |       126464 |
+   04 | EPS-Sng  | THE M1 SONG  |       6 | THE M1 SONG .efe |         3584 |
+   05 | EPS-Bnk  |  WAVELENGTH  |       3 |  WAVELENGTH .efe |         2048 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1514 Blocks    |  Used:           775168 Bytes   |
+ Free:                       71 Blocks    |  Free:            36352 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+
+
+
+who-am-i-1990/WhoAmI1990.img
+Ensoniq Disk and Directory Information 
+
+------------------------------------------+---------------------------------+
+ Disk Label: <NONE>                       | FILE: WhoAmI1990.img            |
+------+----------+--------------+---------+------------------+--------------+
+  Idx |Type      | Name         |Blocks   | FileName         | FileSize     |
+------+----------+--------------+---------+------------------+--------------+
+   01 | Instr    | ECHO BASS    |     106 | ECHO BASS   .efe |        54784 |
+   02 | Instr    | ORCH HITS    |     424 | ORCH HITS   .efe |       217600 |
+   03 | EPS-Sng  |  ** SONG **  |     218 |  ## SONG ## .efe |       112128 |
+   04 | EPS-Bnk  | SOUNDBANK  1 |       3 | SOUNDBANK  1.efe |         2048 |
+   05 | Instr    | HARPSITINE   |     335 | HARPSITINE  .efe |       172032 |
+   06 | Instr    |  ERGO DRUMS  |     142 |  ERGO DRUMS .efe |        73216 |
+------+----------+--------------+---------+---------------------------------+
+ Used:                     1228 Blocks    |  Used:           628736 Bytes   |
+ Free:                      357 Blocks    |  Free:           182784 Bytes   |
+----------------------------------------------------------------------------+
+ Total:                    1585 Blocks    |  Total:          811520 Bytes   |
+----------------------------------------------------------------------------+
+

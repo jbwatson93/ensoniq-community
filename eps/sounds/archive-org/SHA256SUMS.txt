@@ -1,0 +1,33 @@
+04d177c569710005f5a3486bbf227b3a11dbb8009a3e8f7d1e5616d69477fd57  extra-demos/EPS-GG3 Demo.img
+09b486c271cc3b73b8c1c937715673adbd4e2ff3a5be7fbc72ffb4430a79587d  who-am-i-1990/[01][Instr  ] ECHO BASS   .efe
+0fc4d34192f26c192d053f02028856a4367bb7b119f0a5fd787794a7d360229a  carless-whisper/CarlessWhisper.img
+16477d6c34e6fed0009d9a997a0e79cb9e7d56fd4be1a7edd60ce1b309ba2ae2  extra-demos/EPS-GG1 Demo.img
+19e5352323f3851499a55ffaff27820a5a0d8cf22bd513152dc271e40d8452a3  extra-demos/EPS-Multi 3 Demo.img
+1e6e18a879bbc0e27e01308e444186ce1c8fcd2ca38788fdd2966e4c055806ba  extra-demos/EPS-M Demo D2.img
+2388e5c38e9655b0d0b68b10d07d69209bab0f576eebeb5044f289563706897e  who-am-i-1990/WhoAmI1990.TXT
+2e984db26826e63388b5f4fe5ceca144ca9da077823fb102ca90d7743473df12  extra-demos/Description.txt
+3a4380ab704e0efb8d512ecf87e037a150b6f0291a63af9a3badaec480d610b7  who-am-i-1990/[03][EPS-Sng]  ## SONG ## .efe
+3ac7622de8deea14669ef994012b074901b582e6ba271c6fbd6eedaf1ecb6b3f  extra-demos/EPS-DH3 Demo.img
+3d3d32f30ba33252da37e5c45d022938694df4cebbea3bc94bea1e367556cb58  extra-demos/EPS-Spiderlegs Demo.img
+43372104c09c674c792a3ea3e1ef5082fd19265076273bf8875423e5fbc1a7ed  carless-whisper/CarlessWhisper.TXT
+44c4dbb34668249d49df394378cb1833cdd012c8d26948cfba366110e6958ed4  extra-demos/EPS-DH2 Demo.img
+50198f913335117c2e63250adef78f26860944ee61ce04a893a71c40cdcbf139  extra-demos/EPS-DH1 Demo.img
+5e78ee73f7bb9cff4d1d79356287ff9fc59fb3d2379a72ac1cb51023028dbd03  who-am-i-1990/WhoAmI1990.hfe
+67a6197ca7b2128ccee3ce8c986d9bab7cd320d82ae9db31e05a4a1752c155f1  carless-whisper/CarlessWhisper.hfe
+7bfeb644440e8560022a516d6da0104f3558968b9b68f408d0828641c0795882  extra-demos/EPS-BAD Demo.img
+88db539da741d95b280fd70d4e779669928bd963df8e270d18ab068b3d511438  extra-demos/EPS-My Oh My Demo.img
+972b08581593fa42aae95cf856025f9054d97dc8b7e306a53effee781c61a361  carless-whisper/[01][Instr  ]  ERGO DRUMS .efe
+a16ee82bab9304358252d65de0dbae0ec5fde636013258fd2fb61df55314a522  who-am-i-1990/[04][EPS-Bnk] SOUNDBANK  1.efe
+a961de3693b995e28058f539eaa05c636a9349d879dca3c1552760b388c61cc3  extra-demos/EPS-George T Demo.img
+aae695bf510563de6bcada2105b79a4fe9811e58d855cacd05a60df8832d1efe  extra-demos/EPS-WaveLength.img
+ac10ff38a26d7f083bbad88f07a37b467e781070de415d5d4734100e653f6c54  carless-whisper/[03][Instr  ] JJ LA       .efe
+b40958d44a5896c7e861fd3c39a8fb5ea1817d3f089f0f73850a0db6415f5be9  extra-demos/EPS-Egyptoid.img
+bac12ea30cd0a7cfc4df97df562e5402faae4b400464c9fed559747813769bfe  carless-whisper/[02][Instr  ] SUPABAS-2 DX.efe
+c71f272fa6dcbd9d14b559045bf30c592e37190d0e08616d6568339d316f803b  extra-demos/EPS-Medieval Demo.img
+cd1fa77c56677d3c43c32fb085c9a9d36d26da46328af45896f08479335bb303  who-am-i-1990/WhoAmI1990.img
+d022c2983e45e2669a03725633cde03f9d4aab8943c3ef710fc379caa7ece199  extra-demos/EPS-Muse Chamber Demo.img
+d73d13dbe56a53c1d0eb800cab2c250794fc704241b51b682f2110bd8919d671  who-am-i-1990/[06][Instr  ]  ERGO DRUMS .efe
+db4837dd672c41b67e46baa32812735a465e1c58fb47185a6365f76959858c91  who-am-i-1990/[02][Instr  ] ORCH HITS   .efe
+e5f01f04bdf28641a2481889b744cfc6e9126e7a23d59b43b147d51baa2054fb  who-am-i-1990/[05][Instr  ] HARPSITINE  .efe
+f445b4c19035841973190859d829dc834d7fa25fdd000c83c9b6baa1b2f47288  extra-demos/EPS-M Demo D1.img
+f4c203ff8c762e09e0e454941c224f9be69f214247aa2fa191aa781c24696cbb  carless-whisper/[04][EPS-Bnk] SOUNDBANK  1.efe
