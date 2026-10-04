@@ -81,6 +81,22 @@ Not sure whether something is a doc or a finding? If you figured it out, it's a 
 2. Name files in lowercase with hyphens, and make the name describe the content (`disk-format-directory-blocks.md`, not `notes2.md`).
 3. Write findings in Markdown where possible so they are readable and searchable on GitHub.
 
+### Commit messages
+
+Write each commit so that someone reading the history later, a person or an AI model, can tell what was added and how far to trust it without opening every file.
+
+- **Subject line:** what changed and for which model, e.g. `Add EPS-16 Plus Bible v027 to eps-16-plus/docs`.
+- **Body:** what the material is, who wrote it or where it was downloaded from, what was verified and what was not, and anything left open.
+- One topic per commit. A new document and an unrelated README fix are two commits.
+
+### First time using git
+
+1. Get the repository: `git clone https://github.com/jbwatson93/ensoniq-community.git`. If you don't have write access, fork it on GitHub first and clone your fork.
+2. Make a branch for your change: `git switch -c add-my-finding`.
+3. Put your files in the right folder, then check what changed: `git status`.
+4. Stage and commit: `git add <files>` then `git commit`, with a message as described above.
+5. Publish the branch: `git push -u origin add-my-finding`, then open a pull request on GitHub.
+
 ### Writing up a finding
 
 A finding is most useful when someone else can reproduce it. Include:
